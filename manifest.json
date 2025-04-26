@@ -1,0 +1,9 @@
+{
+  "name": "Sliding doesn't break tables",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Smrekishs/Sliding_doesnt_break_tables",
+  "description": "Disables tables and covers getting damaged after sliding on them.",
+  "dependencies": [
+    "MtG_API-Mod_the_Gungeon_API-1.9.1"
+  ]
+}
