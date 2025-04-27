@@ -13,7 +13,7 @@ namespace Mod
     {
         public const string GUID = "smrekish.etg.slipperycover";
         public const string NAME = "Sliding doesn't break tables";
-        public const string VERSION = "1.0.0";
+        public const string VERSION = "1.0.1";
         public const string TEXT_COLOR = "#00FFFF";
 
         public void Start()

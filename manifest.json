@@ -1,6 +1,6 @@
 {
   "name": "Sliding_Doesnt_Break_Tables",
-  "version_number": "1.0.0",
+  "version_number": "1.0.1",
   "website_url": "https://github.com/Smrekishs/Sliding_doesnt_break_tables",
   "description": "Disables tables and covers getting damaged after sliding on them.",
   "dependencies": [
